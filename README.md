@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhanhero09
 - 👀 I’m interested in making a website/games
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on no one
+- 💞️ I’m looking to collaborate on a game team
 - 📫 How to reach me: farhan.hero09@gmail.com
 
 <!---
